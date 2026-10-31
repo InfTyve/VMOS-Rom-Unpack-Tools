@@ -1,4 +1,5 @@
 # VMOS Plus Rom解包工具
+## 仅适用于VMOS Plus Android15版本
 ## 使用方法：
 ```bash
 解包: python3 vmos_auto.py rom.7z
