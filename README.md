@@ -5,6 +5,7 @@
 解包: python3 vmos_auto.py rom.7z
 打包: python3 vmos_db.py 原包.7z ./vmos_out -o 输出修改.zip
 修复sha-256: python3 vmos_meta_fix.py 原包.7z 修改的.zip -o fix.zip
+python3 vmos_7z_db.py 已固实的.7z -o fixed.7z
 ```
 
 | 脚本 | 作用 |
